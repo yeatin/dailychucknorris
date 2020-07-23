@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dailychucknorris/static/css/main.d4b8d7d9.chunk.css",
+    "main.js": "/dailychucknorris/static/js/main.e79b94d4.chunk.js",
+    "main.js.map": "/dailychucknorris/static/js/main.e79b94d4.chunk.js.map",
+    "runtime-main.js": "/dailychucknorris/static/js/runtime-main.9db07288.js",
+    "runtime-main.js.map": "/dailychucknorris/static/js/runtime-main.9db07288.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/dailychucknorris/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.518750e8.chunk.js": "/dailychucknorris/static/js/2.518750e8.chunk.js",
+    "static/js/2.518750e8.chunk.js.map": "/dailychucknorris/static/js/2.518750e8.chunk.js.map",
+    "index.html": "/dailychucknorris/index.html",
+    "precache-manifest.8c00443cb80ec608a1d4897995bf2807.js": "/dailychucknorris/precache-manifest.8c00443cb80ec608a1d4897995bf2807.js",
+    "service-worker.js": "/dailychucknorris/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/dailychucknorris/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d4b8d7d9.chunk.css.map": "/dailychucknorris/static/css/main.d4b8d7d9.chunk.css.map",
+    "static/js/2.518750e8.chunk.js.LICENSE.txt": "/dailychucknorris/static/js/2.518750e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db07288.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.518750e8.chunk.js",
+    "static/css/main.d4b8d7d9.chunk.css",
+    "static/js/main.e79b94d4.chunk.js"
+  ]
+}
